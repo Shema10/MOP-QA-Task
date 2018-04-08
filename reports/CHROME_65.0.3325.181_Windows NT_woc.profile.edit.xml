@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="woc.profile.edit"
+    errors="0" failures="1" hostname="" id="" package="woc.profile.edit" skipped="0"
+    tests="1" time="19.57" timestamp="Sun, 08 Apr 2018 22:25:59 GMT">
+  
+    <testcase name="War On Cancer Edit profile - Smoke" classname="woc.profile.edit" time="19.57" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;.profile-card&gt; to be present for 5000 milliseconds.">    at Object.War On Cancer Edit profile - Smoke (C:\Users\Elma\Desktop\war-on-cancer-automation\test\e2e\woc.profile.edit.js:29:14)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
