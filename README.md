@@ -4,10 +4,7 @@
 ### Prerequisites
 
 - Install [Node.js](https://nodejs.org/en/)
-- Install [Docker](https://docker.com/)
-- Install [VS Code](https://code.visualstudio.com/)
-
-
+- Install Java to support Selenium.
 
 ## Getting Started
 
