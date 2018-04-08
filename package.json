@@ -6,7 +6,7 @@
     "node": "4.4.6"
   },
   "scripts": {
-    "staging": "node_modules/.bin/nightwatch  --config nightwatch.conf.BASIC.js",
+    "staging": "ENVIRONMENT_URL=http://stg.waroncancer.com node_modules/.bin/nightwatch  --config nightwatch.conf.BASIC.js",
     "production": "ENVIRONMENT_URL=http://www.waroncancer.com node_modules/.bin/nightwatch  --config nightwatch.conf.BASIC.js"
   },
   "author": "Eldin Semovic",
